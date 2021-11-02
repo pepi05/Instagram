@@ -1,0 +1,6 @@
+dev.js
+node_modules/
+.env
+*.orig
+.idea/
+.vscode/
