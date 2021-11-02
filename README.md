@@ -3,15 +3,15 @@
 Some of the core concepts in this project's  are the CRUD operations which allow writing, reading, updating and deleting data in the database.
 
 TOOLS & SHORT DESCRIPTION:
-Building an backend API with Node.js & Express,
-JWT based authentication,
-bcrypt - for password encription,
-mongoose - for interacting with a MongoDB, 
-Axios - to send requests to our backend,
-React-REDUX for state management,
-React Hooks,
-Reactstrap (inbuilt Bootstrap components),
-Protecting routes or endpoints.
+- Building an backend API with Node.js & Express
+- JWT based authentication
+- bcrypt - for password encription
+- mongoose - for interacting with a MongoDB,
+- Axios - to send requests to our backend
+- React-REDUX for state management
+- React Hooks
+- Reactstrap (inbuilt Bootstrap components)
+- Protecting routes or endpoints
 
 This Instagram project will have following features:
 - Users can Post their pictures and share it with the world
